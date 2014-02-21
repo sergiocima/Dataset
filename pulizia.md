@@ -1,9 +1,9 @@
-<h1 id="caricamentos-dati">Caricamentos dati</h1>
+<h1 id="caricamento-dati">Caricamento dati</h1>
 
 <blockquote>
   <p>Impari a creare un progetto in Google Refine e Open Refine <br>
   Dataset usati: <a href="https://www.dropbox.com/s/ovq6pqtn8hup00i/0300%20disastri.json">0300 disastri.json</a></p>
-</blockquote>
+</blockquote><div class="se-section-delimiter"></div>
 
 <h2 id="modi-per-caricare-i-dati">Modi per caricare i dati</h2>
 
