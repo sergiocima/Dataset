@@ -1,11 +1,12 @@
 <h1 id="caricamento-dati">Caricamento dati</h1>
 
 <blockquote>
-  <p>Impari a creare un progetto in Google Refine e Open Refine <br>
-  Dataset usati: <br>
-  - <a href="dataset_workshop/0300_disastri.json">0300_disastri.json</a> <br>
-  - <a href="dataset_workshop/0100_contractors_fp7_W.xlsx">0100_contractors_fp7_W.xls</a></p>
+  <p>Impari a creare un progetto in Google Refine e Open Refine</p>
 </blockquote>
+
+<p>Dataset usati: <br>
+- <a href="dataset_workshop/0300_disastri.json">0300_disastri.json</a> <br>
+- <a href="dataset_workshop/0100_contractors_fp7_W.xlsx">0100_contractors_fp7_W.xls</a></p><div class="se-section-delimiter"></div>
 
 <h2 id="modi-per-caricare-i-dati">Modi per caricare i dati</h2>
 
