@@ -6,11 +6,11 @@
 
 <p>Dataset usati: <br>
 - <a href="dataset_workshop/0300_disastri.json">0300_disastri.json</a> <br>
-- <a href="dataset_workshop/0100_contractors_fp7_W.xlsx">0100_contractors_fp7_W.xls</a></p><div class="se-section-delimiter"></div>
+- <a href="dataset_workshop/0100_contractors_fp7_W.xlsx">0100_contractors_fp7_W.xls</a></p>
 
 <h2 id="modi-per-caricare-i-dati">Modi per caricare i dati</h2>
 
-<p><img src="https://www.dropbox.com/s/28uqkw42n55zv3c/media_1355734512098.png" alt="enter image description here" title=""> </p>
+<p><img src="images/Caricamento_dati/media_1355734512098.png" alt="enter image description here" title=""> </p>
 
 <p>E’ possibile creare un progetto caricando i dati dal computer, dal web, dagli appunti copiati con ctrl+c, o da un google doc previo accesso al proprio account. E’ anche possibile importare lo zip di un progetto Google refine</p>
 
