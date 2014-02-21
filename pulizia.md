@@ -46,5 +46,3 @@
 
 <p>Altre guide qui: <br>
 - <a href="https://sakai.unc.edu/access/content/group/b45a6f34-de04-4e63-8bb5-131c910306b5/Cleaning%20Data/Cleaning%20Data%20With%20Refine">https://sakai.unc.edu/access/content/group/b45a6f34-de04-4e63-8bb5-131c910306b5/Cleaning%20Data/Cleaning%20Data%20With%20Refine</a></p>
-
-<p>Dataset: 0100 contractors fp7 W.xls</p>
