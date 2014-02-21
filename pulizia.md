@@ -7,28 +7,33 @@
 
 <h2 id="modi-per-caricare-i-dati">Modi per caricare i dati</h2>
 
-<p><img src="https://www.dropbox.com/s/28uqkw42n55zv3c/media_1355734512098.png" alt="enter image description here" title="">  <br>
-E’ possibile creare un progetto caricando i dati dal computer, dal web, dagli appunti copiati con ctrl+c, o da un google doc previo accesso al proprio account. E’ anche possibile importare lo zip di un progetto Google refine</p>
+<p><img src="https://www.dropbox.com/s/28uqkw42n55zv3c/media_1355734512098.png" alt="enter image description here" title=""> </p>
+
+<p>E’ possibile creare un progetto caricando i dati dal computer, dal web, dagli appunti copiati con ctrl+c, o da un google doc previo accesso al proprio account. E’ anche possibile importare lo zip di un progetto Google refine</p><div class="se-section-delimiter"></div>
 
 <h2 id="caricare-un-json">Caricare un json</h2>
 
-<p><img src="images/Caricamento_dati/Screen_Shot_2014-01-23_at_22.53.12.png" alt="enter image description here" title=""> <br>
-Una volta caricato un file json bisogna indicare un singolo record in modo che Refine possa strutturare il dataset in righe e colonne.</p>
+<p><img src="images/Caricamento_dati/Screen_Shot_2014-01-23_at_22.53.12.png" alt="enter image description here" title=""></p>
+
+<p>Una volta caricato un file json bisogna indicare un singolo record in modo che Refine possa strutturare il dataset in righe e colonne.</p><div class="se-section-delimiter"></div>
 
 <h2 id="anteprima-json">Anteprima json</h2>
 
-<p><img src="images/Caricamento_dati/media_1390514131220.png" alt="enter image description here" title=""> <br>
-Se l’anteprima funziona crea il progetto se no ricomincia.</p>
+<p><img src="images/Caricamento_dati/media_1390514131220.png" alt="enter image description here" title=""></p>
+
+<p>Se l’anteprima funziona crea il progetto se no ricomincia.</p><div class="se-section-delimiter"></div>
 
 <h2 id="caricare-un-gdoc">Caricare un gdoc</h2>
 
-<p><img src="images/Caricamento_dati/media_1355734683778.png" alt="enter image description here" title=""> <br>
-E’ possibile caricare file di vari formati (excel, csv, json ecc). Dopo aver fatto login a Gdrive è possibile carciare uno dei propri gdoc. E’ anche possibile caricare un gdoc pubblico se se ne conosce l’indirizzo.</p>
+<p><img src="images/Caricamento_dati/media_1355734683778.png" alt="enter image description here" title=""></p>
+
+<p>E’ possibile caricare file di vari formati (excel, csv, json ecc). Dopo aver fatto login a Gdrive è possibile carciare uno dei propri gdoc. E’ anche possibile caricare un gdoc pubblico se se ne conosce l’indirizzo.</p><div class="se-section-delimiter"></div>
 
 <h2 id="anteprima">Anteprima</h2>
 
-<p><img src="images/Caricamento_dati/media_1355734770880.png" alt="enter image description here" title=""> <br>
-GRefine carica il documento e presenta una anteprima. Vengono indicate le righe del foglio e vengono date alcune opzioni con caselle di spunta. La più utile è la possibilità di indicare la prima riga come riga di intestazione (1). Se va tutto bene procedere con la creazione del progetto (2).</p>
+<p><img src="images/Caricamento_dati/media_1355734770880.png" alt="enter image description here" title=""></p>
+
+<p>GRefine carica il documento e presenta una anteprima. Vengono indicate le righe del foglio e vengono date alcune opzioni con caselle di spunta. La più utile è la possibilità di indicare la prima riga come riga di intestazione (1). Se va tutto bene procedere con la creazione del progetto (2).</p><div class="se-section-delimiter"></div>
 
 <h1 id="pulizia">Pulizia</h1>
 
