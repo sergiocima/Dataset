@@ -1,0 +1,250 @@
+School Variables
+SC01Q01 - Public or private
+SC02Q01 - Total funding - Government 
+SC02Q02 - Total funding - Student fees 
+SC02Q03 - Total funding - Donations 
+SC02Q04 - Total funding - Other  
+SC03Q01 - School Location
+SC04Q01 - Competition between schools
+SC05Q01 - Class size in <test language> 
+SC07Q01 - Number of boys 
+SC07Q02 - Number of girls 
+SC09Q11 - Teachers  on the staff in TOTAL - Full-time 
+SC09Q12 - Teachers  on the staff in TOTAL - Part-time 
+SC09Q21 - Teachers  on the staff fully certified by <the appropriate authority> - Full-time 
+SC09Q22 - Teachers  on the staff fully certified by <the appropriate authority> - Part-time 
+SC09Q31 - Teachers  on the staff with an <ISCED5A> qualification - Full-time 
+SC09Q32 - Teachers  on the staff with an <ISCED5A> qualification - Part-time 
+SC10Q11 - Math Teachers in TOTAL - Full time  
+SC10Q12 - Math Teachers in TOTAL - Part-time 
+SC10Q21 - Math Teachers <ISCED5A> in mathematics  - Full time  
+SC10Q22 - Math Teachers <ISCED5A> in mathematics  - Part-time 
+SC10Q41 - Math Teachers <ISCED5A> in <pedagogy> - Full time  
+SC10Q42 - Math Teachers <ISCED5A> in <pedagogy>  - Part-time 
+SC10Q51 - Math Teachers <ISCED5B> but not an <ISCED 5A> - Full time 
+SC10Q52 - Math Teachers <ISCED5B> but not an <ISCED 5A> - Part-time 
+SC10Q61 - Math Teachers <ISCED5A> qualification - Full time  
+SC10Q62 - Math Teachers <ISCED5A> qualification - Part-time 
+SC11Q01 - Number of students in the modal grade? 
+SC11Q02 - Computers available 
+SC11Q03 - Computers with internet 
+SC13Q01 - Internet schoolwork - Lessons 
+SC13Q02 - Internet schoolwork - Homework
+SC13Q03 - Internet schoolwork - Assignments
+SC14Q01 - Shortage - Science teachers
+SC14Q02 - Shortage - Math teachers
+SC14Q03 - Shortage - <Test language> teachers 
+SC14Q04 - Shortage - Other teachers  
+SC14Q05 - Shortage - Science lab equipment 
+SC14Q06 - Shortage - Instructional materials  
+SC14Q07 - Shortage - Computers for instruction
+SC14Q08 - Shortage - Internet connectivity 
+SC14Q09 - Shortage - Computer software  
+SC14Q10 - Shortage - Library materials  
+SC14Q11 - Shortage - Buildings and grounds 
+SC14Q12 - Shortage - Heating, cooling and lighting
+SC14Q13 - Shortage - Instructional space
+SC15Q01 - Ability grouping - Similar content,different difficulty  
+SC15Q02 - Ability grouping - Different content,different difficulty
+SC15Q03 - Ability grouping - Grouped by ability  
+SC15Q04 - Ability grouping - Not grouped by ability 
+SC16Q01 - Activities - Band 
+SC16Q02 - Activities - School play
+SC16Q03 - Activities - Yearbook or newspaper  
+SC16Q04 - Activities - Volunteering  
+SC16Q05 - Activities - Mathematics club 
+SC16Q06 - Activities - Mathematics competitions  
+SC16Q07 - Activities - Chess club 
+SC16Q08 - Activities - Computer or ICT club
+SC16Q09 - Activities - Art club
+SC16Q10 - Activities - Sporting team 
+SC16Q11 - Activities - <country specific item>   
+SC18Q01 - Assessments  -  Child Progress 
+SC18Q02 - Assessments  -  Student Promotion
+SC18Q03 - Assessments  -  Instruction
+SC18Q04 - Assessments  -  National Performance
+SC18Q05 - Assessments  -  School Progress
+SC18Q06 - Assessments  -  Teachers
+SC18Q07 - Assessments  -  Curriculum 
+SC18Q08 - Assessments  -  Other Schools 
+SC19Q01 - Achievement - Posted Publicly 
+SC19Q02 - Achievement - Tracked by Authority  
+SC20Q01 - Additional math lessons 
+SC21Q05 - Purpose of additional math lessons  
+SC22Q01 - Learning Hindrance - Student truancy
+SC22Q02 - Learning Hindrance - Skipping classes  
+SC22Q03 - Learning Hindrance - students being late  
+SC22Q04 - Learning Hindrance - students skipping events
+SC22Q05 - Learning Hindrance - Students lacking respect
+SC22Q06 - Learning Hindrance - Student Disruption
+SC22Q07 - Learning Hindrance - Student drug use  
+SC22Q08 - Learning Hindrance - Students being bullied  
+SC22Q09 - Learning Hindrance - Students not encouraged 
+SC22Q10 - Learning Hindrance - Poor student-teacher relations
+SC22Q11 - Learning Hindrance - Heterogeneous classes
+SC22Q12 - Learning Hindrance - Diverse ethnic backgrounds 
+SC22Q13 - Learning Hindrance - Teachers low expectations  
+SC22Q14 - Learning Hindrance - Student needs not met
+SC22Q15 - Learning Hindrance - Teacher absenteeism  
+SC22Q16 - Learning Hindrance - Staff resisting change  
+SC22Q17 - Learning Hindrance - Teachers too strict  
+SC22Q18 - Learning Hindrance - Teachers being late  
+SC22Q19 - Learning Hindrance - Teachers being unprepared  
+SC23Q01 - Percent of students without certificate     
+SC24Q01 - Parental achievement pressure 
+SC25Q01 - Proportion of parents discussed their childâs behaviour with a teacher on their own initiative 
+SC25Q02 - Proportion of parents discussed their childâs behaviour on the initiative of one of their childâs teachers 
+SC25Q03 - Proportion of parents discussed their childâs progress with a teacher on their own initiative 
+SC25Q04 - Proportion of parents discussed their childâs progress on the initiative of one of their childâs teachers 
+SC25Q05 - Proportion of parents volunteered in physical activities 
+SC25Q06 - Proportion of parents volunteered in extra-curricular activities 
+SC25Q07 - Proportion of parents volunteered in the school library or media centre 
+SC25Q08 - Proportion of parents assisted a teacher in the school 
+SC25Q09 - Proportion of parents appeared as a guest speaker 
+SC25Q10 - Proportion of parents participated in local school <government> 
+SC25Q11 - Proportion of parents assisted in fundraising for the school 
+SC25Q12 - Proportion of parents volunteered in the school <canteen> 
+SC26Q01 - Teacher morale - High Morale  
+SC26Q02 - Teacher morale - Enthusiasm
+SC26Q03 - Teacher morale - Pride  
+SC26Q04 - Teacher morale - Value achievement  
+SC27Q01 - Teacher intentions - Trying new methods
+SC27Q02 - Teacher intentions - Stay with well-known methods  
+SC28Q01 - Teacher intentions - Maximise achievement 
+SC28Q02 - Teacher intentions - Adapt standards
+SC29Q01 - Teacher intentions - Social development
+SC29Q02 - Teacher intentions - Development of math skills 
+SC30Q01 - Teacher Monitoring - Student Achievement tests  
+SC30Q02 - Teacher Monitoring - Teacher peer review  
+SC30Q03 - Teacher Monitoring - Principal or senior staff  
+SC30Q04 - Teacher Monitoring - External observers
+SC31Q01 - Teacher Appraisal - Salary change
+SC31Q02 - Teacher Appraisal - Financial bonus 
+SC31Q03 - Teacher Appraisal - Professional development 
+SC31Q04 - Teacher Appraisal - Career advancement 
+SC31Q05 - Teacher Appraisal - Public recognition 
+SC31Q06 - Teacher Appraisal - Work responsibilities 
+SC31Q07 - Teacher Appraisal - School development 
+SC32Q01 - Admission  -  Academic record 
+SC32Q03 - Admission  -  Feeder schools  
+SC32Q04 - Admission  -  Parents endorsement
+SC32Q05 - Admission  -  Special Programme  
+SC32Q06 - Admission  -  Family members  
+SC32Q07 - Admission  -  Residence 
+SC32Q08 - Admission  -  Other  
+SC33Q01A - Responsibility - Hiring teachers - Principals
+SC33Q01B - Responsibility - Hiring teachers - Teachers  
+SC33Q01C - Responsibility - Hiring teachers - <School governing board> 
+SC33Q01D - Responsibility - Hiring teachers - <Regional or local education authority> 
+SC33Q01E - Responsibility - Hiring teachers - National education authority
+SC33Q02A - Responsibility - Firing teachers - Principals
+SC33Q02B - Responsibility - Firing teachers - Teachers  
+SC33Q02C - Responsibility - Firing teachers - <School governing board> 
+SC33Q02D - Responsibility - Firing teachers - <Regional or local education authority> 
+SC33Q02E - Responsibility - Firing teachers - National education authority
+SC33Q03A - Responsibility - Teacher start salaries - Principals    
+SC33Q03B - Responsibility - Teacher start salaries - Teachers   
+SC33Q03C - Responsibility - Teacher start salaries - <School governing board>  
+SC33Q03D - Responsibility - Teacher start salaries - <Regional or local education authority>  
+SC33Q03E - Responsibility - Teacher start salaries - National education authority    
+SC33Q04A - Responsibility - Salary increase - Principals
+SC33Q04B - Responsibility - Salary increase - Teachers  
+SC33Q04C - Responsibility - Salary increase - <School governing board> 
+SC33Q04D - Responsibility - Salary increase - <Regional or local education authority> 
+SC33Q04E - Responsibility - Salary increase - National education authority
+SC33Q05A - Responsibility - Budget formulation - Principals
+SC33Q05B - Responsibility - Budget formulation - Teachers  
+SC33Q05C - Responsibility - Budget formulation - <School governing board> 
+SC33Q05D - Responsibility - Budget formulation - <Regional or local education authority> 
+SC33Q05E - Responsibility - Budget formulation - National education authority
+SC33Q06A - Responsibility - Budget allocation - Principals 
+SC33Q06B - Responsibility - Budget allocation - Teachers
+SC33Q06C - Responsibility - Budget allocation - <School governing board>  
+SC33Q06D - Responsibility - Budget allocation - <Regional or local education authority>  
+SC33Q06E - Responsibility - Budget allocation - National education authority 
+SC33Q07A - Responsibility - Disciplinary policies - Principals  
+SC33Q07B - Responsibility - Disciplinary policies - Teachers   
+SC33Q07C - Responsibility - Disciplinary policies - <School governing board>  
+SC33Q07D - Responsibility - Disciplinary policies - <Regional or local education authority>  
+SC33Q07E - Responsibility - Disciplinary policies - National education authority 
+SC33Q08A - Responsibility - Assessment policies - Principals  
+SC33Q08B - Responsibility - Assessment policies - Teachers 
+SC33Q08C - Responsibility - Assessment policies - <School governing board>
+SC33Q08D - Responsibility - Assessment policies - <Regional or local education authority>
+SC33Q08E - Responsibility - Assessment policies - National education authority  
+SC33Q09A - Responsibility - Student admittance - Principals
+SC33Q09B - Responsibility - Student admittance - Teachers  
+SC33Q09C - Responsibility - Student admittance - <School governing board> 
+SC33Q09D - Responsibility - Student admittance - <Regional or local education authority> 
+SC33Q09E - Responsibility - Student admittance - National education authority
+SC33Q10A - Responsibility - Textbook selection - Principals
+SC33Q10B - Responsibility - Textbook selection - Teachers  
+SC33Q10C - Responsibility - Textbook selection - <School governing board> 
+SC33Q10D - Responsibility - Textbook selection - <Regional or local education authority> 
+SC33Q10E - Responsibility - Textbook selection - National education authority
+SC33Q11A - Responsibility - Course content - Principals 
+SC33Q11B - Responsibility - Course content - Teachers
+SC33Q11C - Responsibility - Course content - <School governing board>  
+SC33Q11D - Responsibility - Course content - <Regional or local education authority>  
+SC33Q11E - Responsibility - Course content - National education authority 
+SC33Q12A - Responsibility - Courses offered - Principals
+SC33Q12B - Responsibility - Courses offered - Teachers  
+SC33Q12C - Responsibility - Courses offered - <School governing board> 
+SC33Q12D - Responsibility - Courses offered - <Regional or local education authority> 
+SC33Q12E - Responsibility - Courses offered - National education authority
+SC34Q01 - School Leadership - Enhance reputation 
+SC34Q02 - School Leadership - Student results 
+SC34Q03 - School Leadership - Development activities
+SC34Q04 - School Leadership - Educational goals  
+SC34Q05 - School Leadership - Educational research  
+SC34Q06 - School Leadership - Praise teacher learning  
+SC34Q07 - School Leadership - Discuss problems
+SC34Q08 - School Leadership - Importance of social capacities
+SC34Q09 - School Leadership - Disruptive behaviour  
+SC34Q10 - School Leadership - Staff decision making 
+SC34Q11 - School Leadership - Improvement culture
+SC34Q12 - School Leadership - Reviewing management  
+SC34Q13 - School Leadership - Joint problem solving 
+SC34Q14 - School Leadership - Goal discussion 
+SC34Q15 - School Leadership - Goal-oriented curriculum 
+SC34Q16 - School Leadership - Curricular strengths  
+SC34Q17 - School Leadership - Inservice activities  
+SC34Q18 - School Leadership - Sharing ideas or information
+SC34Q19 - School Leadership - Informal observations 
+SC34Q20 - School Leadership - Review student work
+SC34Q22 - School Leadership - Evaluate staff  
+SC35Q01 - Percentage of teaching staff attended a course in math - All staff 
+SC35Q02 - Percentage of teaching staff attended a course in math - Staff who teach math 
+SC39Q01 - Quality Assurance - Specification of profile 
+SC39Q02 - Quality Assurance - Specification of standards  
+SC39Q03 - Quality Assurance - Data recording  
+SC39Q05 - Quality Assurance - Internal evaluation
+SC39Q06 - Quality Assurance - External evaluation   
+SC39Q07 - Quality Assurance - Student feed-back  
+SC39Q08 - Quality Assurance - Teacher mentoring  
+SC39Q09 - Quality Assurance - Expert consultation
+SC39Q10 - Quality Assurance - Standardised math policy 
+SC40Q01 - Math Policy - Computer use 
+SC40Q02 - Math Policy - Textbook  
+SC40Q03 - Math Policy - Standardised curriculum  
+SC44Q01 - Student Transfer  -  Low achievement
+SC44Q02 - Student Transfer  -  High achievement  
+SC44Q03 - Student Transfer  -  Behavioural problems 
+SC44Q04 - Student Transfer  -  Special learning needs  
+SC44Q05 - Student Transfer  -  Parents request
+SC44Q06 - Transfer  -  other reasons 
+SC45Q01 - Compulsory FE  
+SC46Q01 - Teaching FE - Separate subject
+SC46Q02 - Teaching FE - Cross-curricular subject 
+SC46Q03 - Teaching FE - Part of <business or economics> course  
+SC46Q04 - Teaching FE - Part of humanities subjects 
+SC46Q05 - Teaching FE - Part of mathematics
+SC46Q06 - Teaching FE - Extra-curricular activity
+SC46Q07 - Teaching FE - Private sector  
+SC46Q08 - Teaching FE - Public sector
+SC46Q09 - Teaching FE - Class teacher lessons 
+SC47Q01 - Availability of FE
+SC51Q01 - 
+SC51Q02 - 
+SC52Q01 - Teaching FE â Teachers  
+SC52Q02 - Teaching FE â NGO
