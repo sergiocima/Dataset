@@ -1,0 +1,442 @@
+età	popolazione	regione
+0-4	4528	Valle dAosta / Vallée dAoste
+5-9	5544	Valle dAosta / Vallée dAoste
+10-14	6012	Valle dAosta / Vallée dAoste
+15-19	5881	Valle dAosta / Vallée dAoste
+20-24	5895	Valle dAosta / Vallée dAoste
+25-29	5975	Valle dAosta / Vallée dAoste
+30-34	6303	Valle dAosta / Vallée dAoste
+35-39	6871	Valle dAosta / Vallée dAoste
+40-44	8414	Valle dAosta / Vallée dAoste
+45-49	10141	Valle dAosta / Vallée dAoste
+50-54	10804	Valle dAosta / Vallée dAoste
+55-59	9953	Valle dAosta / Vallée dAoste
+60-64	8404	Valle dAosta / Vallée dAoste
+65-69	7656	Valle dAosta / Vallée dAoste
+70-74	7148	Valle dAosta / Vallée dAoste
+75-79	5941	Valle dAosta / Vallée dAoste
+80-84	4822	Valle dAosta / Vallée dAoste
+85-89	2978	Valle dAosta / Vallée dAoste
+90-94	1402	Valle dAosta / Vallée dAoste
+95-99	332	Valle dAosta / Vallée dAoste
+100+	30	Valle dAosta / Vallée dAoste
+0-4	46674	Abruzzo
+5-9	54313	Abruzzo
+10-14	57316	Abruzzo
+15-19	58345	Abruzzo
+20-24	61884	Abruzzo
+25-29	68199	Abruzzo
+30-34	72195	Abruzzo
+35-39	78518	Abruzzo
+40-44	89760	Abruzzo
+45-49	100300	Abruzzo
+50-54	105503	Abruzzo
+55-59	98654	Abruzzo
+60-64	87992	Abruzzo
+65-69	79713	Abruzzo
+70-74	73892	Abruzzo
+75-79	56680	Abruzzo
+80-84	50828	Abruzzo
+85-89	33660	Abruzzo
+90-94	15121	Abruzzo
+95-99	4001	Abruzzo
+100+	393	Abruzzo
+0-4	19131	Basilicata
+5-9	21378	Basilicata
+10-14	24239	Basilicata
+15-19	27278	Basilicata
+20-24	29140	Basilicata
+25-29	32043	Basilicata
+30-34	32186	Basilicata
+35-39	33018	Basilicata
+40-44	37207	Basilicata
+45-49	41260	Basilicata
+50-54	44135	Basilicata
+55-59	43687	Basilicata
+60-64	38551	Basilicata
+65-69	34266	Basilicata
+70-74	30160	Basilicata
+75-79	21645	Basilicata
+80-84	21657	Basilicata
+85-89	14450	Basilicata
+90-94	6180	Basilicata
+95-99	1518	Basilicata
+100+	125	Basilicata
+0-4	75828	Calabria
+5-9	82594	Calabria
+10-14	89301	Calabria
+15-19	95408	Calabria
+20-24	101946	Calabria
+25-29	111943	Calabria
+30-34	117282	Calabria
+35-39	119386	Calabria
+40-44	129476	Calabria
+45-49	136941	Calabria
+50-54	144474	Calabria
+55-59	142330	Calabria
+60-64	127327	Calabria
+65-69	113888	Calabria
+70-74	101516	Calabria
+75-79	73692	Calabria
+80-84	64515	Calabria
+85-89	43205	Calabria
+90-94	17936	Calabria
+95-99	4662	Calabria
+100+	460	Calabria
+0-4	242182	Campania
+5-9	270094	Campania
+10-14	301798	Campania
+15-19	325487	Campania
+20-24	339167	Campania
+25-29	354312	Campania
+30-34	351072	Campania
+35-39	364186	Campania
+40-44	399817	Campania
+45-49	435780	Campania
+50-54	446533	Campania
+55-59	422151	Campania
+60-64	359930	Campania
+65-69	310937	Campania
+70-74	284977	Campania
+75-79	199403	Campania
+80-84	158816	Campania
+85-89	96457	Campania
+90-94	38974	Campania
+95-99	9162	Campania
+100+	908	Campania
+0-4	169286	Emilia-Romagna
+5-9	197524	Emilia-Romagna
+10-14	208803	Emilia-Romagna
+15-19	200503	Emilia-Romagna
+20-24	201857	Emilia-Romagna
+25-29	218803	Emilia-Romagna
+30-34	236663	Emilia-Romagna
+35-39	264578	Emilia-Romagna
+40-44	322550	Emilia-Romagna
+45-49	370762	Emilia-Romagna
+50-54	367173	Emilia-Romagna
+55-59	336924	Emilia-Romagna
+60-64	289217	Emilia-Romagna
+65-69	252994	Emilia-Romagna
+70-74	250694	Emilia-Romagna
+75-79	206435	Emilia-Romagna
+80-84	180771	Emilia-Romagna
+85-89	116895	Emilia-Romagna
+90-94	54840	Emilia-Romagna
+95-99	15432	Emilia-Romagna
+100+	1415	Emilia-Romagna
+0-4	40811	Friuli-Venezia Giulia
+5-9	48944	Friuli-Venezia Giulia
+10-14	53019	Friuli-Venezia Giulia
+15-19	53011	Friuli-Venezia Giulia
+20-24	53324	Friuli-Venezia Giulia
+25-29	56027	Friuli-Venezia Giulia
+30-34	59498	Friuli-Venezia Giulia
+35-39	66131	Friuli-Venezia Giulia
+40-44	80715	Friuli-Venezia Giulia
+45-49	97962	Friuli-Venezia Giulia
+50-54	101015	Friuli-Venezia Giulia
+55-59	95068	Friuli-Venezia Giulia
+60-64	80786	Friuli-Venezia Giulia
+65-69	75003	Friuli-Venezia Giulia
+70-74	75536	Friuli-Venezia Giulia
+75-79	65873	Friuli-Venezia Giulia
+80-84	52165	Friuli-Venezia Giulia
+85-89	31142	Friuli-Venezia Giulia
+90-94	15101	Friuli-Venezia Giulia
+95-99	4693	Friuli-Venezia Giulia
+100+	392	Friuli-Venezia Giulia
+0-4	219169	Lazio
+5-9	261200	Lazio
+10-14	273658	Lazio
+15-19	265645	Lazio
+20-24	271880	Lazio
+25-29	292581	Lazio
+30-34	319316	Lazio
+35-39	363392	Lazio
+40-44	424593	Lazio
+45-49	481735	Lazio
+50-54	486108	Lazio
+55-59	446722	Lazio
+60-64	372824	Lazio
+65-69	324265	Lazio
+70-74	306728	Lazio
+75-79	245279	Lazio
+80-84	205476	Lazio
+85-89	125902	Lazio
+90-94	53710	Lazio
+95-99	14100	Lazio
+100+	1417	Lazio
+0-4	47405	Liguria
+5-9	56743	Liguria
+10-14	62884	Liguria
+15-19	64036	Liguria
+20-24	66774	Liguria
+25-29	69549	Liguria
+30-34	71777	Liguria
+35-39	75825	Liguria
+40-44	93428	Liguria
+45-49	118942	Liguria
+50-54	129255	Liguria
+55-59	123430	Liguria
+60-64	106434	Liguria
+65-69	96341	Liguria
+70-74	99427	Liguria
+75-79	86607	Liguria
+80-84	76299	Liguria
+85-89	49511	Liguria
+90-94	23342	Liguria
+95-99	6184	Liguria
+100+	633	Liguria
+0-4	395569	Lombardia
+5-9	458849	Lombardia
+10-14	488665	Lombardia
+15-19	474012	Lombardia
+20-24	479236	Lombardia
+25-29	506923	Lombardia
+30-34	551429	Lombardia
+35-39	612770	Lombardia
+40-44	721733	Lombardia
+45-49	823340	Lombardia
+50-54	840172	Lombardia
+55-59	751937	Lombardia
+60-64	627132	Lombardia
+65-69	561986	Lombardia
+70-74	546328	Lombardia
+75-79	449881	Lombardia
+80-84	379655	Lombardia
+85-89	229822	Lombardia
+90-94	100183	Lombardia
+95-99	25662	Lombardia
+100+	2318	Lombardia
+0-4	53691	Marche
+5-9	64571	Marche
+10-14	69302	Marche
+15-19	68866	Marche
+20-24	71924	Marche
+25-29	74815	Marche
+30-34	78686	Marche
+35-39	87701	Marche
+40-44	106368	Marche
+45-49	118082	Marche
+50-54	121007	Marche
+55-59	115187	Marche
+60-64	101446	Marche
+65-69	91720	Marche
+70-74	85705	Marche
+75-79	70236	Marche
+80-84	65760	Marche
+85-89	42065	Marche
+90-94	19871	Marche
+95-99	5222	Marche
+100+	447	Marche
+0-4	9971	Molise
+5-9	11350	Molise
+10-14	12250	Molise
+15-19	13448	Molise
+20-24	15400	Molise
+25-29	16722	Molise
+30-34	16941	Molise
+35-39	17720	Molise
+40-44	20052	Molise
+45-49	22162	Molise
+50-54	23969	Molise
+55-59	23474	Molise
+60-64	21170	Molise
+65-69	19339	Molise
+70-74	17692	Molise
+75-79	12599	Molise
+80-84	12362	Molise
+85-89	8676	Molise
+90-94	3963	Molise
+95-99	1140	Molise
+100+	116	Molise
+0-4	152500	Piemonte
+5-9	179935	Piemonte
+10-14	193003	Piemonte
+15-19	191732	Piemonte
+20-24	198118	Piemonte
+25-29	208072	Piemonte
+30-34	219290	Piemonte
+35-39	240077	Piemonte
+40-44	290053	Piemonte
+45-49	342692	Piemonte
+50-54	357279	Piemonte
+55-59	331419	Piemonte
+60-64	291087	Piemonte
+65-69	267144	Piemonte
+70-74	260991	Piemonte
+75-79	216425	Piemonte
+80-84	189439	Piemonte
+85-89	117273	Piemonte
+90-94	51019	Piemonte
+95-99	12573	Piemonte
+100+	1096	Piemonte
+0-4	146757	Puglia
+5-9	171695	Puglia
+10-14	189371	Puglia
+15-19	206808	Puglia
+20-24	215618	Puglia
+25-29	223657	Puglia
+30-34	222922	Puglia
+35-39	238039	Puglia
+40-44	282201	Puglia
+45-49	301091	Puglia
+50-54	311957	Puglia
+55-59	293629	Puglia
+60-64	257718	Puglia
+65-69	233182	Puglia
+70-74	225233	Puglia
+75-79	165301	Puglia
+80-84	136652	Puglia
+85-89	85572	Puglia
+90-94	36258	Puglia
+95-99	8762	Puglia
+100+	882	Puglia
+0-4	49324	Sardegna
+5-9	61159	Sardegna
+10-14	66771	Sardegna
+15-19	68881	Sardegna
+20-24	72082	Sardegna
+25-29	80193	Sardegna
+30-34	87157	Sardegna
+35-39	98275	Sardegna
+40-44	117846	Sardegna
+45-49	133084	Sardegna
+50-54	135378	Sardegna
+55-59	130690	Sardegna
+60-64	116968	Sardegna
+65-69	106673	Sardegna
+70-74	94096	Sardegna
+75-79	76761	Sardegna
+80-84	57929	Sardegna
+85-89	37243	Sardegna
+90-94	16451	Sardegna
+95-99	4202	Sardegna
+100+	458	Sardegna
+0-4	200136	Sicilia
+5-9	220774	Sicilia
+10-14	241480	Sicilia
+15-19	258511	Sicilia
+20-24	270648	Sicilia
+25-29	288509	Sicilia
+30-34	289758	Sicilia
+35-39	299989	Sicilia
+40-44	333685	Sicilia
+45-49	364754	Sicilia
+50-54	373974	Sicilia
+55-59	358991	Sicilia
+60-64	317871	Sicilia
+65-69	283330	Sicilia
+70-74	263695	Sicilia
+75-79	193270	Sicilia
+80-84	160523	Sicilia
+85-89	102607	Sicilia
+90-94	41543	Sicilia
+95-99	10210	Sicilia
+100+	1032	Sicilia
+0-4	128678	Toscana
+5-9	154289	Toscana
+10-14	166684	Toscana
+15-19	163903	Toscana
+20-24	164705	Toscana
+25-29	175038	Toscana
+30-34	190036	Toscana
+35-39	211452	Toscana
+40-44	257588	Toscana
+45-49	299079	Toscana
+50-54	304544	Toscana
+55-59	282566	Toscana
+60-64	243565	Toscana
+65-69	219688	Toscana
+70-74	228237	Toscana
+75-79	181914	Toscana
+80-84	159436	Toscana
+85-89	100217	Toscana
+90-94	47098	Toscana
+95-99	12794	Toscana
+100+	1044	Toscana
+0-4	27033	Provincia Autonoma Bolzano / Bozen
+5-9	27786	Provincia Autonoma Bolzano / Bozen
+10-14	28413	Provincia Autonoma Bolzano / Bozen
+15-19	29061	Provincia Autonoma Bolzano / Bozen
+20-24	30524	Provincia Autonoma Bolzano / Bozen
+25-29	30570	Provincia Autonoma Bolzano / Bozen
+30-34	30403	Provincia Autonoma Bolzano / Bozen
+35-39	32724	Provincia Autonoma Bolzano / Bozen
+40-44	34514	Provincia Autonoma Bolzano / Bozen
+45-49	41150	Provincia Autonoma Bolzano / Bozen
+50-54	43898	Provincia Autonoma Bolzano / Bozen
+55-59	39641	Provincia Autonoma Bolzano / Bozen
+60-64	31271	Provincia Autonoma Bolzano / Bozen
+65-69	25770	Provincia Autonoma Bolzano / Bozen
+70-74	23801	Provincia Autonoma Bolzano / Bozen
+75-79	22812	Provincia Autonoma Bolzano / Bozen
+80-84	16464	Provincia Autonoma Bolzano / Bozen
+85-89	10644	Provincia Autonoma Bolzano / Bozen
+90-94	4729	Provincia Autonoma Bolzano / Bozen
+95-99	1345	Provincia Autonoma Bolzano / Bozen
+100+	91	Provincia Autonoma Bolzano / Bozen
+0-4	22869	Provincia Autonoma Trento
+5-9	26325	Provincia Autonoma Trento
+10-14	27631	Provincia Autonoma Trento
+15-19	28161	Provincia Autonoma Trento
+20-24	28582	Provincia Autonoma Trento
+25-29	29173	Provincia Autonoma Trento
+30-34	29743	Provincia Autonoma Trento
+35-39	31319	Provincia Autonoma Trento
+40-44	36386	Provincia Autonoma Trento
+45-49	41702	Provincia Autonoma Trento
+50-54	44322	Provincia Autonoma Trento
+55-59	41483	Provincia Autonoma Trento
+60-64	35481	Provincia Autonoma Trento
+65-69	31546	Provincia Autonoma Trento
+70-74	28482	Provincia Autonoma Trento
+75-79	23834	Provincia Autonoma Trento
+80-84	18385	Provincia Autonoma Trento
+85-89	12079	Provincia Autonoma Trento
+90-94	5946	Provincia Autonoma Trento
+95-99	1849	Provincia Autonoma Trento
+100+	127	Provincia Autonoma Trento
+0-4	29988	Umbria
+5-9	36718	Umbria
+10-14	39865	Umbria
+15-19	38492	Umbria
+20-24	39422	Umbria
+25-29	41926	Umbria
+30-34	45967	Umbria
+35-39	51196	Umbria
+40-44	60171	Umbria
+45-49	67661	Umbria
+50-54	69155	Umbria
+55-59	66144	Umbria
+60-64	57650	Umbria
+65-69	52889	Umbria
+70-74	51978	Umbria
+75-79	43026	Umbria
+80-84	37853	Umbria
+85-89	24925	Umbria
+90-94	11714	Umbria
+95-99	3147	Umbria
+100+	278	Umbria
+0-4	183008	Veneto
+5-9	216171	Veneto
+10-14	234595	Veneto
+15-19	233587	Veneto
+20-24	237762	Veneto
+25-29	243464	Veneto
+30-34	253817	Veneto
+35-39	279024	Veneto
+40-44	340907	Veneto
+45-49	401145	Veneto
+50-54	416049	Veneto
+55-59	383411	Veneto
+60-64	320526	Veneto
+65-69	282684	Veneto
+70-74	268044	Veneto
+75-79	226399	Veneto
+80-84	181729	Veneto
+85-89	111301	Veneto
+90-94	50979	Veneto
+95-99	13389	Veneto
+100+	1142	Veneto
